@@ -1,5 +1,5 @@
 # flux-get-started
-# TestCommit
+# Test Commit
 
 [![CircleCI](https://circleci.com/gh/fluxcd/flux-get-started.svg?style=svg)](https://circleci.com/gh/fluxcd/flux-get-started)
 
